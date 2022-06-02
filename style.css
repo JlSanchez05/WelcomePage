@@ -91,7 +91,7 @@ header nav ul li a {
 .box1 {
   width: 20%;
   text-align: center;
-  background-image: url(/images/contact.jpeg);
+  background-image: url(./images/contact.jpeg);
 }
 .box1 h3 {
   display: inline-block;
